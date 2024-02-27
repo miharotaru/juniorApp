@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Junior App</string>
+    <string name="agree">I agree with the terms and conditions.</string>
+    <string name="username">Username:</string>
+    <string name="enter_your_username">Enter your username...</string>
+    <string name="enter_your_password">Enter your password...</string>
+    <string name="password">Password:</string>
+    <string name="login">Login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="transactions">Transactions</string>
+    <string name="IBAN_Dedeman">RO49 Dema 1B31 0075 9384 0000</string>
+    <string name="IBAN_Emag">RO49 Emag 1B31 0075 9384 0000</string>
+    <string name="IBAN_Mega">RO49 Mega 1B31 0075 9384 0000</string>
+    <string name="IBAN">RO49 AAAA 1B31 0075 9384 0000</string>
+    <string name="euro">€</string>
+    <string name="dolar">$</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="balance">Balance:</string>
+    <string name="_30_000">$30.000</string>
+    <string name="add">+</string>
+    <string name="done">Done</string>
+    <string name="iban">Iban</string>
+    <string name="randomText">Plata efectuata cu succes catre furnizori</string>
+    <string name="enter_company_details_here">Enter company details here</string>
+    <string name="Dedeman">Dedeman</string>
+    <string name="profile">Profile</string>
+    <string name="account">ACCOUNT</string>
+    <string name="bank">Bank:</string>
+    <string name="card_number">Card Number:</string>
+    <string name="holder_name">Holder name:</string>
+
+    <string-array name="company">
+        <item>Vendor</item>
+        <item>Mega-Image</item>
+        <item>Dedeman</item>
+        <item>Emag</item>
+    </string-array>
+</resources>
